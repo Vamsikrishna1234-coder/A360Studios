@@ -1,0 +1,10 @@
+.main-img,
+  .offset-img {
+    transition: transform 0.4s ease;
+    cursor: pointer;
+  }
+
+  .main-img:hover,
+  .offset-img:hover {
+    transform: scale(1.07);
+  }
